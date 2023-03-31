@@ -3,4 +3,6 @@ project 1 dealing with git
 
 I modified it locally
 
-I modify it local again
+modify it local again
+I edited it remotly
+
